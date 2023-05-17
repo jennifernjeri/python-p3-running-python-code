@@ -1,6 +1,4 @@
 print ("Hello world!")
-print()
-print("Hello world!")
 print("Hello sun!")
 print("Hello sky!")
 print("Hello world!", end=" ")
