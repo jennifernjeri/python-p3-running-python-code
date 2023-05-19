@@ -3,7 +3,8 @@ print("Hello sun!")
 print("Hello sky!")
 print("Hello world!", end=" ")
 print("Hello sun!", end="!! ")
-print("Hello sky!", end="!!!\n") 
+print("Hello sky!", end="!!!\n")
+
 # Concantenation is joining two variables to create a single output
 # Scope is the region where the variable is being created
 #Global variables are declared outside a function and can be used with any function
@@ -20,3 +21,4 @@ def student_grade(marks):
         print ("Distinction")
 
 student_grade (int(input("Enter student marks")))
+
